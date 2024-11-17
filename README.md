@@ -9,4 +9,4 @@ La route devrait donc renvoyer 200 OK avec la requête suivante :
 GET http://localhost:3000/auth/secret-mysecretphrase
 
 test chore: release
-re test chore: release
+re test chore: release 
